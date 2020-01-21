@@ -38,3 +38,6 @@ While you can control your movements, the citizens are erratic and blow gas at e
 
 
 To build and run the game, open the XCode Project provided and press the play button in the top left corner. In order for this to work, make sure that all of the provided files, except for the XCode file, are inside the same directory, which is in turn inside of the same directory as the XCode Project.
+
+
+***Project Specification provided by [David Smallberg](http://web.cs.ucla.edu/classes/winter18/cs32/)***
